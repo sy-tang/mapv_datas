@@ -1,1 +1,1 @@
-{"default":{"layers":{"igm8xp9s13wier":{"options":{"type":"choropleth","option":{"size":"6","igm8xp9s13wier":"确定"},"layerName":"igm8xp9s13wier"},"data":"data/igm8xp9s13wier","sha":"9268444d3b7770993a7dbd171b902282040b9679"}}}}
+{"default":{"layers":{"igm8xp9s13wier":{"options":{"type":"density","option":{"size":"30","unit":"px","type":"honeycomb","igm8xp9s13wier":"确定"},"layerName":"igm8xp9s13wier"},"data":"data/igm8xp9s13wier","sha":"9268444d3b7770993a7dbd171b902282040b9679"}}}}
